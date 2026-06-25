@@ -1,0 +1,16 @@
+# Data
+data/
+
+# Trained model artefacts
+models/
+
+# Output plots
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.venv/
